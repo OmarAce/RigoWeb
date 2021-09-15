@@ -77,3 +77,10 @@ section > h1 {
     width: 50%;
     float: left;
 }
+h1 {
+  text-decoration: underline;
+}
+
+.title {
+  color: red;
+}
